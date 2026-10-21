@@ -9,10 +9,12 @@
 | [0575-distribute-candies](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0605-can-place-flowers/) | Easy |
 | [0733-flood-fill](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0733-flood-fill/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0888-fair-candy-swap/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0575-distribute-candies](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0575-distribute-candies/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0888-fair-candy-swap/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +43,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0733-flood-fill/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0888-fair-candy-swap](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0888-fair-candy-swap/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0888-fair-candy-swap](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0888-fair-candy-swap/) | Easy |
 <!---LeetCode Topics End-->
