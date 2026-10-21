@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0283-move-zeroes/) | Easy |
+| [0495-teemo-attacking](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0495-teemo-attacking/) | Easy |
 | [0575-distribute-candies](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0605-can-place-flowers/) | Easy |
 ## Hash Table
@@ -23,4 +24,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0283-move-zeroes/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0495-teemo-attacking](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0495-teemo-attacking/) | Easy |
 <!---LeetCode Topics End-->
