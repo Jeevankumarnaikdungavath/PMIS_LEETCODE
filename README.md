@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0575-distribute-candies](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0605-can-place-flowers/) | Easy |
 ## Hash Table
@@ -18,4 +19,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0605-can-place-flowers/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/Jeevankumarnaikdungavath/PMIS_LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
